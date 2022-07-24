@@ -16,4 +16,5 @@ Dari kegagalan itu kita mengetahui kalau kelemahan perangkat yang diemulasi* ada
 Setelah menyiapkan perangkat aslinya dan beberapa alat dan bahan tambahan**, alat yang kami buat berfungsi sebagaimana yang diharapkan.
 
 *sebenarnya saya sendiri masih bingung kata apa yang cocok, mohon sarannya heheh
+
 **karena rancangan alat dibuat seluruhnya didalam Proteus, kami menyiapkan alat dan bahan aslinya (_real hardware_). bakalan repot nanti kalo beli stm32 buat gerakin servo yang ada didalam proteus.
